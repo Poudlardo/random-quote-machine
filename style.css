@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+}
+
+.wrapper {
+  height: 100vh;
+}
+
+.box {
+  position: relative;
+  background-color: white;
+  width: 50%;
+}
+
+.fa-quote-left {
+  position: absolute;
+  top: 15px;
+  left: 20px;
+}
+
+#tweet-quote {
+  border: 0;
+}
+
+#new-quote {
+  border: 0;
+}
